@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fullstack+developer)](https://git.io/typing-svg)
-<!--
-'''
+
+´´´
 # Hi, I'm Extiben 👋
 
 ### 🧠 I'm learning full-stack development
@@ -22,5 +22,4 @@
 ### 🚀 Projects to Check Out
 
 - 🔐 [Secure Password Generator](https://github.com/Extiben/python-safe-password-generator)
-'''
--->
+´´´
