@@ -1,5 +1,5 @@
 ##                                                       Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=800080&center=true&vCenter=true&width=403&height=94&lines=Fullstack+developer)](https://git.io/typing-svg)
 
 #                                                       Hi, I'm Extiben 👋
 
