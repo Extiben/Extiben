@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=B74EF7&width=435&height=45&lines=Fullstack+developer)](https://git.io/typing-svg)
 # Hi, I'm Extiben 👋
 
