@@ -1,7 +1,7 @@
-## Hi there 👋
+##                                                       Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fullstack+developer)](https://git.io/typing-svg)
 
-# Hi, I'm Extiben 👋
+#                                                       Hi, I'm Extiben 👋
 
 ### 🧠 I'm learning full-stack development
 - 🌱 Currently working on several web and desktop apps
