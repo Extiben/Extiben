@@ -1,7 +1,7 @@
-##                                                       Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=6D4FC3&width=403&height=94&lines=Fullstack+developer)](https://git.io/typing-svg)
+## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B74EF7&width=435&lines=Fullstack+developer)](https://git.io/typing-svg)
 
-#                                                       Hi, I'm Extiben 👋
+# Hi, I'm Extiben 👋
 
 ### 🧠 I'm learning full-stack development
 - 🌱 Currently working on several web and desktop apps
@@ -14,7 +14,7 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,mongodb,sql" />
 
 ---
 
