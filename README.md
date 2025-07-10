@@ -13,7 +13,7 @@
 
 ### 🧰 Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,mongodb,sql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,mongodb,sqlite" />
 
 ---
 
