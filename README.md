@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <!--
-**Extiben/Extiben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Extiben 👋
 
-Here are some ideas to get you started:
+### 🧠 I'm learning full-stack development
+- 🌱 Currently working on several web and desktop apps
+- ⚙️ I like building small tools to automate daily tasks
+- 📫 Reach me on: [@estiben_iwnl](https://instagram.com/estiben_iwnl)
+- ⚡ Fun fact: I love anime, skating and minimalism
+- 🛠 Tools: React, Node.js, Python, sql, APIs, django, mongodb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📈 My GitHub Stats
+![Estiben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Extiben&show_icons=true&theme=tokyonight)
+
 -->
