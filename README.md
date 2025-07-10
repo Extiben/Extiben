@@ -21,20 +21,9 @@
 
 - 🔐 [Secure Password Generator](https://github.com/Extiben/python-safe-password-generator)
 
-  ## Let's get in touch!
-
 <p align="center">
-  <a href="https://instagram.com/tu_usuario" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30"/>
-  </a>
+  <img src="https://ghchart.rshah.org/Extiben" alt="GitHub chart" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Estiben123" alt="GitHub chart" />
-</p>
-
 ---
-
-[Estiben] Last Edited on : 10/07/2025
 
 
