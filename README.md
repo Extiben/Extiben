@@ -5,7 +5,7 @@
 ### 🧠 I'm learning full-stack development
 - 🌱 Currently working on several web and desktop apps
 - ⚙️ I like building small tools to automate daily tasks
-- 📫 Reach me on: [@estiben_iwnl](https://instagram.com/estiben_iwnl)
+- 📫 Reach me on: [@estiben_iwnl](https://instagram.com/estiben_msn)
 - ⚡ Fun fact: I love anime, skating and music
 
 ### 📈 My GitHub Stats
